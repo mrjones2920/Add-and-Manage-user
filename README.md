@@ -22,6 +22,14 @@ Next, you need to add the new user to the research_team group.
 
 ![image](https://github.com/user-attachments/assets/3418553f-cf64-47e7-879b-79df91d06ed3)
 
+Task 2. Assign file ownership
+The new employee, researcher9, will take responsibility for project_r. In this task, you must make them the owner of the project_r.txt file.
+
+The project_r.txt file is located in the /home/researcher2/projects directory, and owned by the researcher2 user.
+
+Use the chown command to make researcher9 the owner of /home/researcher2/projects/project
+
+
 <h1>Task 3. Add the user to a secondary group</h1>
 A couple of months later, this employee's role at the organization has changed, and they are working in both the Research and the Sales departments.
 
