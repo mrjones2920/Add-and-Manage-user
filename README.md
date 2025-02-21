@@ -29,6 +29,8 @@ The project_r.txt file is located in the /home/researcher2/projects directory, a
 
 Use the chown command to make researcher9 the owner of /home/researcher2/projects/project
 
+![image](https://github.com/user-attachments/assets/64cee0d8-8001-4b02-ac18-46d8e740113e)
+
 
 <h1>Task 3. Add the user to a secondary group</h1>
 A couple of months later, this employee's role at the organization has changed, and they are working in both the Research and the Sales departments.
