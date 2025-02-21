@@ -41,3 +41,10 @@ Use the usermod command with the -a and -G options to add researcher9 to the sal
 
 ![image](https://github.com/user-attachments/assets/6675dde4-c080-43d4-a968-4adb54062bbc)
 
+<h1>Task 4. Delete a user</h1>
+A year later, researcher9, decided to leave the company. In this task, you must remove them from the system.
+
+1.Run a command to delete researcher9 from the system:
+
+2.Run the following command to delete the researcher9 group that is no longer required:
+
