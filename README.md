@@ -48,3 +48,4 @@ A year later, researcher9, decided to leave the company. In this task, you must 
 
 2.Run the following command to delete the researcher9 group that is no longer required:
 
+![image](https://github.com/user-attachments/assets/014abe54-9948-4971-856a-1bc070b72ae5)
