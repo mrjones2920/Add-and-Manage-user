@@ -22,3 +22,10 @@ Next, you need to add the new user to the research_team group.
 
 ![image](https://github.com/user-attachments/assets/3418553f-cf64-47e7-879b-79df91d06ed3)
 
+<h1>Task 3. Add the user to a secondary group</h1>
+A couple of months later, this employee's role at the organization has changed, and they are working in both the Research and the Sales departments.
+
+In this task, you must add researcher9 to a secondary group (sales_team). Their primary group is still research_team.
+
+Use the usermod command with the -a and -G options to add researcher9 to the sales_team group as a secondary group.
+
