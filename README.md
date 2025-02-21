@@ -10,3 +10,13 @@ You have multiple tasks in this lab:
 - Change ownership of a file
 - Add the new employee to a new group
 - Delete the employee from the system
+
+<h1>Task 1. Add a new user</h1>
+A new employee has joined the Research department. In this task, you must add them to the system. The username assigned to them is researcher9.
+
+1.Write a command to add a user called researcher9 to the system.
+
+Next, you need to add the new user to the research_team group.
+
+2.Use the usermod command and -g option to add researcher9 to the research_team group as their primary group.
+
