@@ -20,3 +20,5 @@ Next, you need to add the new user to the research_team group.
 
 2.Use the usermod command and -g option to add researcher9 to the research_team group as their primary group.
 
+![image](https://github.com/user-attachments/assets/3418553f-cf64-47e7-879b-79df91d06ed3)
+
