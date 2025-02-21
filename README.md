@@ -39,3 +39,5 @@ In this task, you must add researcher9 to a secondary group (sales_team). Their 
 
 Use the usermod command with the -a and -G options to add researcher9 to the sales_team group as a secondary group.
 
+![image](https://github.com/user-attachments/assets/6675dde4-c080-43d4-a968-4adb54062bbc)
+
